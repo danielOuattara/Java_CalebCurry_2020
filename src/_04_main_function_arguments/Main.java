@@ -9,8 +9,8 @@ public class Main {
 /*
 in the terminal run:
 --------------------
-javac [package_path]/Main.java --> compilation
-java package_path.ClassName Daniel --> execution
+javac Arguments.java --> compilation
+java _04_main_function_arguments.Arguments Daniel --> execution
 
 to output "Hello Daniel"
 
