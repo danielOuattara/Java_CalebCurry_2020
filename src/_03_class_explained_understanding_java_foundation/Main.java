@@ -1,4 +1,4 @@
-package _03_class_explained;
+package _03_class_explained_understanding_java_foundation;
 
 public class Main {
     public static void main(String[] args) {
@@ -7,8 +7,8 @@ public class Main {
         firstInstance.sayHello(); // calling sayHello() using an instance of the class Main
         Main.sayIamFree(); // calling static method directly on class Main
     }
-    String  name = new String("Daniel Ouattara");
-    String country = "France";
+    public String  name = new String("Daniel Ouattara"); // property
+    public String country = "France"; // property
     public void sayHello() {
         // This method require an instance to call it.
         System.out.println("I need an instance of class to be alive");
@@ -25,6 +25,10 @@ public class Main {
  class : Contains everything, and has members
  methods : do something
  properties : store something
+ arguments : what you pass to a method
+ parameter : variables to store arguments, part of method definition
+ statement : telling something to the computer
+
 
  access modifier:
 
