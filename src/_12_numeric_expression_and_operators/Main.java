@@ -11,7 +11,7 @@ public class Main {
         double double_x_2 = 5 / 2.0;
         System.out.println(double_x_2);
 
-        double double_x_3 = (double)5 / 2;
+        double double_x_3 = (double) 5 / 2;
         System.out.println(double_x_3);
         /*
         + addition
