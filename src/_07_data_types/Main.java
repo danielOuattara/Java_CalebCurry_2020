@@ -8,12 +8,11 @@ public class Main {
         String name = "Daniel Ouattara"; // string definition using a literal
 
         // primitives types
-        int  x = 5;
+        int x = 5;
         System.out.println(x);
         //OR
         Integer y = 5;  // autoboxed Integer variables
         System.out.println(y);
-
 
     }
 }

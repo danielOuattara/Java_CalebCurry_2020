@@ -7,6 +7,7 @@ public class Main {
         String first_name = "John ";
         // OR
         String last_name = new String("Doe");
+
         System.out.println(first_name + " " + last_name);
         System.out.println(first_name + last_name);
 

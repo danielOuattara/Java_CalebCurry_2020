@@ -36,4 +36,5 @@ public class Main {
         System.out.println(is_password_ok);
 
     }
+
 }
